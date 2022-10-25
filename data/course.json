@@ -1,15 +1,61 @@
 [
-    {"id":1,
+    {"categoryId":"1",
       "name":"javascript tutorial",
-      "image":""
+      "image":"",
+      "courseId":"1a" ,
+      "detail":
+      [
+         {"duration": "6 months" , "price":"5k"}
+      ]
     } , 
-    {"id":2,
+    {"categoryId":"1",
       "name":"javascript tutorial",
+      "image":"",
+      "courseId":"1b",
+      "detail":
+      [
+         {"duration": "6 months" , "price":"5k"}
+      ]
+    } , 
+    {"categoryId":"1",
+      "name":"javascript tutorial",
+      "image":"",
+      "courseId": "1c",
+      "detail":
+      [
+         {"duration": "6 months" , "price":"5k"}
+      ]
+    } , 
+    {"categoryId":"2",
+      "name":"java tutorial",
       "image":""
+   
+    },
+    {"categoryId":"2",
+      "name":"java tutorial",
+      "image":""
+ 
+    },
+    {"categoryId":"2",
+      "name":"java tutorial",
+      "image":""
+    
     }
      , 
-    {"id":3,
-      "name":"javascript tutorial",
+    {"categoryId":"3",
+      "name":"c tutorial",
+      "image":""
+    },
+    {"categoryId":"3",
+      "name":"c tutorial",
+      "image":""
+    },
+    {"categoryId":"3",
+      "name":"c tutorial",
+      "image":""
+    },
+    {"categoryId":"3",
+      "name":"c tutorial",
       "image":""
     }
 
