@@ -30,14 +30,14 @@
       "name":"Data Structure And Algorithum",
       "courseId":"1d",
       "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?w=1380&t=st=1666692948~exp=1666693548~hmac=924e9f88adf13bfcad46fabbf00dbb30d0599e0709af956f35e3b075f6ddfa04",
-      "detail":[ {"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "total_module":"50"}]
+      "detail":[ {"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "project":"6","total_module":"50"}]
    
     },
     {"categoryId":"1",
       "name":"Complete Web development",
       "courseId":"1e",
       "image":"https://img.freepik.com/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?w=826&t=st=1666693006~exp=1666693606~hmac=5444e451e5c8a90524bd2b5f57e437653815f8b2c01685d942a4d4b9c0857396",
-      "detail": [ {"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "total_module":"50"}]
+      "detail": [ {"duration": "6 months" , "price":"4k" , "accebility":"life time"  ,"project":"5" ,"total_module":"50"}]
  
     },
     {"categoryId":"1",
@@ -45,7 +45,7 @@
       "courseId":"1f",
       
       "image":"https://img.freepik.com/free-vector/combination-circuit-head-shape-artificial-intelligence-moral-electronic-world-illustration_456031-123.jpg?w=1380&t=st=1666693032~exp=1666693632~hmac=bd6a861017b21ee276d15b9197189e428e9684ff552e7f7d9a53be27a02be70c",
-       "detail":[{"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "total_module":"50"} ,
+       "detail":[{"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "project":"5","total_module":"50"} ,
         {"technology":"python sql excel google analyticts .. etc"}
       ]  
     
@@ -187,12 +187,63 @@
   {
     "categoryId":"5",
     "name":"Data entry",
-    "courseId":"5a",
-    "image":"https://cdn.pixabay.com/photo/2016/11/03/18/19/social-media-1795578_960_720.jpg",
+    "courseId":"5b",
+    "image":"https://media.istockphoto.com/photos/businessman-analyzing-annual-business-report-with-using-laptop-at-picture-id992844862?s=612x612",
     "detail":[{"duration":"6 months" , "price":"20k" , "sucject_Cover":["basics of data entry. " , "Learn to get the right qualification about data entry. " , "work from home with data entry. " , " work from home successfully. " , "assess your skills and equipment. " , " make long term plans. "  ]}]
+  },
+  {
+    "categoryId":"5",
+    "name":"Excel",
+    "courseId":"5c",
+    "image":"https://images.unsplash.com/photo-1658203897339-0b8c64a42fba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+    "detail":[{"duration":"6 months" , "price":"20k" , "sucject_Cover":[
+      "Excel Analytics. " , 
+      "Excel Charts. " , "Excel Formulas and Functions. " , " Pivot Tables. " , 
+      "Excel Shortcuts and Tips. "    ]}]
+  },
+  {
+    "categoryId":"5",
+    "name":"Micro Soft Word",
+    "courseId":"5d",
+    "image":"https://images.unsplash.com/photo-1658203897339-0b8c64a42fba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+    "detail":[{"duration":"6 months" , "price":"10k" , "sucject_Cover":[
+      "Getting started with Word. " , 
+      "Working with text tables and lists. " , "Working With Graphics. " , " Finalizing a document. " , 
+      "Collaborating on documents. "    ]}]
+  },
+  {
+    "categoryId":"5",
+    "name":"Illustration",
+    "courseId":"5e",
+    "image":"",
+    "detail":[{"duration":"5 months" , "price":"5k" , "sucject_Cover":[
+      "Logo Design. " , 
+      "Character Design. " , "User Experience Design. "     ]}]
+  },
+  {
+    "categoryId":"5",
+    "name":"SEO(Search Engine Optimization )",
+    "courseId":"5f",
+    "image":"https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      "Website Planning and Creation. " , 
+      "Domain Name Registration. " , "Domain Selection. ", "Hosting and its types. " , "Basic knowledge of World Wide Web. " , "Website wireframe and architecture. ", "Basics of developing and designing a website. "    ]}]
   }
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
