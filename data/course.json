@@ -1,62 +1,210 @@
 [
     {"categoryId":"1",
       "name":"javascript tutorial",
-      "image":"",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902",
       "courseId":"1a" ,
       "detail":
       [
-         {"duration": "6 months" , "price":"5k"}
+         {"duration": "6 months" , "price":"5k" , "project":"5" , "accebility":"life time"  , "total_module":"50"}
       ]
     } , 
     {"categoryId":"1",
-      "name":"javascript tutorial",
-      "image":"",
+      "name":"C zero to hero",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
       "courseId":"1b",
       "detail":
       [
-         {"duration": "6 months" , "price":"5k"}
+         {"duration": "6 months" , "price":"2k" , "project":"8" , "accebility":"life time"  , "total_module":"50"}
       ]
     } , 
     {"categoryId":"1",
-      "name":"javascript tutorial",
-      "image":"",
+      "name":"Zava",
+      "image":"https://thumbs.dreamstime.com/z/java-programming-word-cloud-hand-sphere-concept-white-background-127724638.jpg",
       "courseId": "1c",
       "detail":
       [
-         {"duration": "6 months" , "price":"5k"}
+         {"duration": "6 months" , "price":"4k" , "project":"5" , "accebility":"life time"  , "total_module":"50"}
       ]
     } , 
-    {"categoryId":"2",
-      "name":"java tutorial",
-      "image":""
+    {"categoryId":"1",
+      "name":"Data Structure And Algorithum",
+      "courseId":"1d",
+      "image":"https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?w=1380&t=st=1666692948~exp=1666693548~hmac=924e9f88adf13bfcad46fabbf00dbb30d0599e0709af956f35e3b075f6ddfa04",
+      "detail":[ {"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "total_module":"50"}]
    
     },
-    {"categoryId":"2",
-      "name":"java tutorial",
-      "image":""
+    {"categoryId":"1",
+      "name":"Complete Web development",
+      "courseId":"1e",
+      "image":"https://img.freepik.com/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?w=826&t=st=1666693006~exp=1666693606~hmac=5444e451e5c8a90524bd2b5f57e437653815f8b2c01685d942a4d4b9c0857396",
+      "detail": [ {"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "total_module":"50"}]
  
     },
-    {"categoryId":"2",
-      "name":"java tutorial",
-      "image":""
+    {"categoryId":"1",
+      "name":"Data Science",
+      "courseId":"1f",
+      
+      "image":"https://img.freepik.com/free-vector/combination-circuit-head-shape-artificial-intelligence-moral-electronic-world-illustration_456031-123.jpg?w=1380&t=st=1666693032~exp=1666693632~hmac=bd6a861017b21ee276d15b9197189e428e9684ff552e7f7d9a53be27a02be70c",
+       "detail":[{"duration": "6 months" , "price":"4k" , "accebility":"life time"  , "total_module":"50"} ,
+        {"technology":"python sql excel google analyticts .. etc"}
+      ]  
     
     }
      , 
+    {"categoryId":"2",
+      "name":"Neet exam",
+      "courseId":"2a",
+      "image":"https://images.pexels.com/photos/5905493/pexels-photo-5905493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"12 months" , "price":"10k" , "sucject_Cover":"Chemistry Biology Physcics" , "total_module":"20"}]
+    },
+    {"categoryId":"2",
+      "name":"UPSC",
+      "courseId":"2b",
+      "image":"https://images.pexels.com/photos/4778424/pexels-photo-4778424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"12 months" , "price":"20k" , "sucject_Cover":"Histoey Math English Geography Hindi and also Optional subject" , "total_module":"20"}]
+    },
+    {"categoryId":"2",
+      "name":"JEE",
+      "courseId":"2c",
+      "image":"https://images.pexels.com/photos/5905493/pexels-photo-5905493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"12 months" , "price":"25k" , "sucject_Cover":" Math Physics Chemistry" , "total_module":"50"}]
+    },
+    {"categoryId":"2",
+      "name":"RBI",
+      "courseId":"2d",
+      "image":"https://images.pexels.com/photos/4778660/pexels-photo-4778660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"12 months" , "price":"25k" , "sucject_Cover":" Math Physics Chemistry" , "total_module":"50"}]
+    },
+    {"categoryId":"2",
+      "name":"SSC",
+      "courseId":"2e" ,
+      "detail":[{"duration":"12 months" , "price":"25k" , "sucject_Cover":" Math Physics Biology Bengali Chemistry" , "total_module":"50"}],
+      "image":"https://images.pexels.com/photos/6683441/pexels-photo-6683441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {"categoryId":"2",
+    "courseId":"2f",
+      "name":"Group D",
+      "image":"https://images.pexels.com/photos/7128763/pexels-photo-7128763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"12 months" , "price":"25k" , "sucject_Cover":" Math Physics Biology Bengali Chemistry English" , "total_module":"50"}]
+    },
+    
     {"categoryId":"3",
-      "name":"c tutorial",
-      "image":""
+    "courseId":"3a",
+      "name":"Masters in computer Science",
+      "image":"https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"24 months" , "price":"115k" , "sucject_Cover":["Discrete Mathematics for Computer Science." , "Data Structures and Algorithms." , "Database Management." , "Artificial Intelligence."] , "total_module":"50"}]
     },
     {"categoryId":"3",
-      "name":"c tutorial",
-      "image":""
+    "courseId":"3b",
+      
+      "name":"Masters in commerce",
+      "image":"https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "detail":[{"duration":"2yr" , "price":"225k" , "sucject_Cover":["Accounting." , "Actuarial Science." , "Business Management." , "Corporate Governance."]}]
     },
     {"categoryId":"3",
-      "name":"c tutorial",
-      "image":""
+      "name":"Masters In Botany",
+      "image":"https://images.pexels.com/photos/1643409/pexels-photo-1643409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "courseId":"3c",
+      "detail":[{"duration":"2yr" , "price":"225k" , "sucject_Cover":["Phycology." , "Microbiology." , "Plant Anatomy and Developmental Biology." , "Mycology and Plant Pathology."]}]
+
     },
-    {"categoryId":"3",
-      "name":"c tutorial",
-      "image":""
-    }
+
+    {
+      "categoryId":"3",
+      "name":"Masters in Physcis",
+      "image":"https://cdn.pixabay.com/photo/2016/03/03/10/20/mathematics-1233876_960_720.jpg",
+      "courseId":"3d",
+      "detail":[{"duration":"2yr" , "price":"225k" , "sucject_Cover":["Classical Mechanics." , "Biophysics." , "Thermodynamics & Statistics Mechanics." , "Optics & Atomic & Molecular Physics."]}]
+    },
+    {
+      "categoryId":"3",
+      "name":"Masters in Chemistry",
+      "image":"https://cdn.pixabay.com/photo/2015/04/26/13/47/chemistry-740453_960_720.jpg",
+      "courseId":"3e",
+      "detail":[{"duration":"2yr" , "price":"225k" , "sucject_Cover":["Classical Chemistry" , "Organic Chemistry" , "Nuclear chemistry and environmental chemistry." , "Materials chemistry and inorganic chemistry."]}]
+    },
+    {
+      "categoryId":"3",
+      "name":"Masters in Math",
+      "image":"https://cdn.pixabay.com/photo/2016/06/13/07/59/pi-1453836_960_720.jpg",
+      "courseId":"3f",
+      "detail":[{"duration":"2yr" , "price":"225k" , "sucject_Cover":["Topology." , "Algebra." , "Fluid Mechanics." , "Functional Analysis."]}]
+    },
+ 
+
+
+
+
+  {
+    "categoryId":"4",
+    "name":"Class 6",
+    "image":"https://cdn.pixabay.com/photo/2013/07/13/12/43/kids-160168_960_720.png" , 
+    "courseId":"4a",
+    "detail":[{"duration":"1yr" , "price":"25k" , "sucject_Cover":["Math. " , "English. " , "Bengali. " , "Biology. " , "Geography. " ]}]
+  },
+  {
+    "categoryId":"4",
+    "name":"Class 7",
+    "image":"https://cdn.pixabay.com/photo/2015/07/19/10/00/school-work-851328_960_720.jpg",
+    "courseId":"4b",
+    "detail":[{"duration":"1yr" , "price":"25k" , "sucject_Cover":["Math. " , "English. " , "Bengali. " , "Biology" , "Geography" ]}]
+  },
+  {
+    "categoryId":"4",
+    "name":"Class 8",
+    "image":"https://cdn.pixabay.com/photo/2022/07/23/07/21/children-7339441_960_720.jpg",
+    "courseId":"4c",
+    "detail":[{"duration":"1yr" , "price":"25k" , "sucject_Cover":["Math. " , "English. " , "Bengali. " , "Biology. " , "Geography. " ]}]
+  },
+  {
+    "categoryId":"4",
+    "name":"Class 9",
+    "image":"https://cdn.pixabay.com/photo/2014/03/26/13/19/school-298680_960_720.jpg",
+    "courseId":"4d",
+    "detail":[{"duration":"1yr" , "price":"25k" , "sucject_Cover":["Math. " , "English. " , "Bengali. " , "Biology. " , "Geography. " ]}]
+  },
+  {
+    "categoryId":"4",
+    "name":"Class 10",
+    "image":"https://media.istockphoto.com/photos/students-raising-their-hands-during-class-picture-id469968322?s=612x612",
+    "courseId":"4e",
+    "detail":[{"duration":"1yr" , "price":"25k" , "sucject_Cover":["Math. " , "English. " , "Bengali. " , "Biology. " , "Geography. " ]}]
+  },
+  {
+    "categoryId":"4",
+    "name":"Class 5",
+    "courseId":"4f",
+    "image":"https://cdn.pixabay.com/photo/2015/07/19/10/00/school-work-851328_960_720.jpg",
+    "detail":[{"duration":"1yr" , "price":"25k" , "sucject_Cover":["Math. " , "English. " , "Bengali. " , "Biology. " , "Geography. " ]}]
+  },
+  {
+    "categoryId":"5",
+    "name":"Digital Marketing",
+    "courseId":"5a",
+    "image":"https://cdn.pixabay.com/photo/2016/11/03/18/19/social-media-1795578_960_720.jpg",
+    "detail":[{"duration":"6 months" , "price":"20k" , "sucject_Cover":["Introduction to Digital Marketing. " , "Search Engine Optimisation (SEO). " , "Website Planning and Creation. " , "Search Engine Marketing. " , "Social Media Marketing. " , "Content Marketing & Strategy. " , "Web Analytics. " , "Digital Media Planning and Buying. " ]}]
+  },
+  {
+    "categoryId":"5",
+    "name":"Data entry",
+    "courseId":"5a",
+    "image":"https://cdn.pixabay.com/photo/2016/11/03/18/19/social-media-1795578_960_720.jpg",
+    "detail":[{"duration":"6 months" , "price":"20k" , "sucject_Cover":["basics of data entry. " , "Learn to get the right qualification about data entry. " , "work from home with data entry. " , " work from home successfully. " , "assess your skills and equipment. " , " make long term plans. "  ]}]
+  }
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
