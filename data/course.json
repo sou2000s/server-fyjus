@@ -205,7 +205,7 @@
     "categoryId":"5",
     "name":"Micro Soft Word",
     "courseId":"5d",
-    "image":"https://images.unsplash.com/photo-1658203897339-0b8c64a42fba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+    "image":"https://images.unsplash.com/photo-1580428839063-353cbae694a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2092&q=80",
     "detail":[{"duration":"6 months" , "price":"10k" , "sucject_Cover":[
       "Getting started with Word. " , 
       "Working with text tables and lists. " , "Working With Graphics. " , " Finalizing a document. " , 
@@ -229,9 +229,85 @@
       
       "Website Planning and Creation. " , 
       "Domain Name Registration. " , "Domain Selection. ", "Hosting and its types. " , "Basic knowledge of World Wide Web. " , "Website wireframe and architecture. ", "Basics of developing and designing a website. "    ]}]
+  },
+  {
+    "categoryId":"6",
+    "name":"Photography for Kids" ,
+    "courseId":"6a",
+    "image":"https://images.unsplash.com/photo-1431068799455-80bae0caf685?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      "Take better photos with any camera you have. " , 
+      "Shoot better photos with basic composition skills. " , "Learn the basic history and technique of photography. ", "Practice basic photography skills over 12 weeks of lessons. " , "Basic knowledge of World Wide Web. " , "Website wireframe and architecture. ", "Basics of developing and designing a website. "    ]}]
+  },
+  {
+    "categoryId":"6",
+    "name":"Portrait Photography for Beginners" ,
+    "courseId":"6b",
+    "image":"https://images.unsplash.com/photo-1554080353-321e452ccf19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      
+      "You will learn how to take better portraits with any camera. " , 
+      "Take better photos with your smartphone. " , "Learn 6 tips for improving your portrait photography. ", "Edit your portraits to make them look stunning. " , "Basic knowledge of World Wide Web. " , "Choose a better background and compose your subject. ", "Feel confident interacting and posing your subject. "    ]}]
+  },
+  {
+    "categoryId":"6",
+    "name":"Mastering Architecture and Real Estate Photography" ,
+    "courseId":"6c",
+    "image":"https://images.unsplash.com/photo-1598006640672-f0cc33c40702?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      
+      "Learn a variety of techniques to photograph architecture and real estate properties. " , 
+      "How to find the best angle, light, and composition. " , "How to light with flash or strobe lights. ", "How to understand and fix bad color. "      ]}]
+  },
+  {
+    "categoryId":"6",
+    "name":"Wedding Photography" ,
+    "courseId":"6d",
+    "image":"https://images.unsplash.com/photo-1518104593124-ac2e82a5eb9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      
+      "Become a successful wedding photographer. " , 
+      "Price and create photography packages that sell. " , "Get your first client. ", "Know how to pose and interact with couples and big groups. " , "Edit photos in Lightroom and Photoshop to make them look better. "     ]}]
+  },
+  {
+    "categoryId":"6",
+    "name":"Mobile Photography" ,
+    "courseId":"6e",
+    "image":"https://images.unsplash.com/photo-1491956716939-48348be220b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      
+      "Learn how to take amazing photos with your phone. " , 
+      "Photographing Landscapes with a mobile phone. " , "Photographing People with a mobile phone. ", "Mobile Night Photography. " , "Lens Distortions. " , "Photographing Pets with a mobile phone. "     ]}]
+  },
+  {
+    "categoryId":"6",
+    "name":"Food Photography" ,
+    "courseId":"6f",
+    "image":"https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberries-2023404_960_720.jpg",
+    "detail":[{"duration":"5 months" , "price":"7k" , "sucject_Cover":[
+      
+      
+      "Take beautiful photographs of food in your home. " , 
+      "Create a unique setting and style for your own food photography. " , "Edit your food photographs to make them look even better. ", "Compose a variety of mouth-watering food photographs that tell your food's story. "]}]
   }
 
+
 ]
+
+
+
+
+
+
+
+
+
+
 
 
 
