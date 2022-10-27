@@ -92,7 +92,7 @@
     "courseId":"3a",
       "name":"Masters in computer Science",
       "image":"https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "detail":[{"duration":"24 months" , "price":"115k" , "sucject_Cover":["Discrete Mathematics for Computer Science." , "Data Structures and Algorithms." , "Database Management." , "Artificial Intelligence."] , "total_module":"50"}]
+      "detail":[{"duration":"24 months" , "price":"115k" , "sucject_Cover":["Discrete Mathematics for Computer Science." , "Data Structures and Algorithms." , "Database Management." , "Artificial Intelligence."]}]
     },
     {"categoryId":"3",
     "courseId":"3b",
